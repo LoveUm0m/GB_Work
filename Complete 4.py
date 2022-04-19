@@ -16,3 +16,4 @@ if __name__ == "__main__":
     print(time.perf_counter() - t)
     print(sys.getsizeof(answ))
     print(list(answ) == result)
+    

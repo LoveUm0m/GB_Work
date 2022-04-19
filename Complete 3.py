@@ -28,3 +28,4 @@ if __name__ == '__main__':
     print(type(gen))
     print(getsizeof(gen))
     print(*gen)
+    
